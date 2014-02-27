@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n stevie
+web: bin/hubot -a campfire -n stevie --adapter slack
